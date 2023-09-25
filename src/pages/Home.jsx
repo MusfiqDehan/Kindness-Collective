@@ -1,5 +1,13 @@
+import CardsContainer from "../components/Home/CardsContainer";
+import Header from "../components/Home/Header";
+
 const Home = () => {
-    return <div>Home</div>;
+    return (
+        <>
+            <Header />
+            <CardsContainer />
+        </>
+    );
 };
 
 export default Home;
