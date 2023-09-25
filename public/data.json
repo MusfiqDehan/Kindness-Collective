@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "title": "Good Education",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Education",
+        "description": "Education is very important for all the children.",
+        "price": 150,
+        "categoryBgColor": "blue",
+        "categoryTextColor": "blue",
+        "cardBgColor": "blue",
+        "cardTextColor": "blue",
+        "btnBgColor": "blue",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 2,
+        "title": "Used Cloth Donation",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Clothing",
+        "description": "Clothing is very important for all.",
+        "price": 150,
+        "categoryBgColor": "lime",
+        "categoryTextColor": "lime",
+        "cardBgColor": "lime",
+        "cardTextColor": "lime",
+        "btnBgColor": "lime",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 3,
+        "title": "Arranging Clean Water",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Health",
+        "description": "Health is very important for all.",
+        "price": 150,
+        "categoryBgColor": "purple",
+        "categoryTextColor": "purple",
+        "cardBgColor": "purple",
+        "cardTextColor": "purple",
+        "btnBgColor": "purple",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 4,
+        "title": "Better Food For Everyone",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Food",
+        "description": "Food is very important for all.",
+        "price": 150,
+        "categoryBgColor": "orange",
+        "categoryTextColor": "orange",
+        "cardBgColor": "orange",
+        "cardTextColor": "orange",
+        "btnBgColor": "orange",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 5,
+        "title": "Better Home For Everyone",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Shelter",
+        "description": "Shelter is very important for all.",
+        "price": 150,
+        "categoryBgColor": "teal",
+        "categoryTextColor": "teal",
+        "cardBgColor": "teal",
+        "cardTextColor": "teal",
+        "btnBgColor": "teal",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 6,
+        "title": "Good Education",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Education",
+        "description": "Education is very important for all the children.",
+        "price": 150,
+        "categoryBgColor": "blue",
+        "categoryTextColor": "blue",
+        "cardBgColor": "blue",
+        "cardTextColor": "blue",
+        "btnBgColor": "blue",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 7,
+        "title": "Used Cloth Donation",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Clothing",
+        "description": "Clothing is very important for all.",
+        "price": 150,
+        "categoryBgColor": "lime",
+        "categoryTextColor": "lime",
+        "cardBgColor": "lime",
+        "cardTextColor": "lime",
+        "btnBgColor": "lime",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 8,
+        "title": "Arranging Clean Water",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Health",
+        "description": "Health is very important for all.",
+        "price": 150,
+        "categoryBgColor": "purple",
+        "categoryTextColor": "purple",
+        "cardBgColor": "purple",
+        "cardTextColor": "purple",
+        "btnBgColor": "purple",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 9,
+        "title": "Better Food For Everyone",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Food",
+        "description": "Food is very important for all.",
+        "price": 150,
+        "categoryBgColor": "orange",
+        "categoryTextColor": "orange",
+        "cardBgColor": "orange",
+        "cardTextColor": "orange",
+        "btnBgColor": "orange",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 10,
+        "title": "Better Home For Everyone",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Shelter",
+        "description": "Shelter is very important for all.",
+        "price": 150,
+        "categoryBgColor": "teal",
+        "categoryTextColor": "teal",
+        "cardBgColor": "teal",
+        "cardTextColor": "teal",
+        "btnBgColor": "teal",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 11,
+        "title": "Good Education",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Education",
+        "description": "Education is very important for all the children.",
+        "price": 150,
+        "categoryBgColor": "blue",
+        "categoryTextColor": "blue",
+        "cardBgColor": "blue",
+        "cardTextColor": "blue",
+        "btnBgColor": "blue",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 12,
+        "title": "Used Cloth Donation",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Clothing",
+        "description": "Clothing is very important for all.",
+        "price": 150,
+        "categoryBgColor": "lime",
+        "categoryTextColor": "lime",
+        "cardBgColor": "lime",
+        "cardTextColor": "lime",
+        "btnBgColor": "lime",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 13,
+        "title": "Arranging Clean Water",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Health",
+        "description": "Health is very important for all.",
+        "price": 150,
+        "categoryBgColor": "purple",
+        "categoryTextColor": "purple",
+        "cardBgColor": "purple",
+        "cardTextColor": "purple",
+        "btnBgColor": "purple",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 14,
+        "title": "Better Food For Everyone",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Food",
+        "description": "Food is very important for all.",
+        "price": 150,
+        "categoryBgColor": "orange",
+        "categoryTextColor": "orange",
+        "cardBgColor": "orange",
+        "cardTextColor": "orange",
+        "btnBgColor": "orange",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 15,
+        "title": "Better Home For Everyone",
+        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "category": "Shelter",
+        "description": "Shelter is very important for all.",
+        "price": 150,
+        "categoryBgColor": "teal",
+        "categoryTextColor": "teal",
+        "cardBgColor": "teal",
+        "cardTextColor": "teal",
+        "btnBgColor": "teal",
+        "btnTextColor": "white"
+    }
+]
