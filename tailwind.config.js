@@ -8,5 +8,5 @@ export default {
     daisyui: {
         themes: ["light", "dark", "synthwave"],
     },
-    plugins: ["daisyui"],
+    plugins: [require("@tailwindcss/typography"), require("daisyui")],
 };
