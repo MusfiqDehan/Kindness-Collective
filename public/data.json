@@ -2,22 +2,22 @@
     {
         "id": 1,
         "title": "Good Education",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Education_n3tnr2.png",
         "category": "Education",
         "description": "Education is very important for all the children.",
         "price": 150,
-        "categoryBgColor": "blue",
-        "categoryTextColor": "blue",
-        "cardBgColor": "blue",
-        "cardTextColor": "blue",
-        "btnBgColor": "blue",
-        "btnTextColor": "white"
+        "categoryBgColor": "#f5d3bd",
+        "categoryTextColor": "text-blue-800",
+        "cardBgColor": "bg-blue-200",
+        "cardTextColor": "text-blue-800",
+        "btnBgColor": "bg-blue-800",
+        "btnTextColor": "text-white"
     },
 
     {
         "id": 2,
         "title": "Used Cloth Donation",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Clothing_ip6pgz.png",
         "category": "Clothing",
         "description": "Clothing is very important for all.",
         "price": 150,
@@ -32,7 +32,7 @@
     {
         "id": 3,
         "title": "Arranging Clean Water",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Health_xmsigt.png",
         "category": "Health",
         "description": "Health is very important for all.",
         "price": 150,
@@ -47,7 +47,7 @@
     {
         "id": 4,
         "title": "Better Food For Everyone",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
         "category": "Food",
         "description": "Food is very important for all.",
         "price": 150,
@@ -62,7 +62,7 @@
     {
         "id": 5,
         "title": "Better Home For Everyone",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734632/kindness-collective-project/Shelter_yepwpg.png",
         "category": "Shelter",
         "description": "Shelter is very important for all.",
         "price": 150,
@@ -77,7 +77,7 @@
     {
         "id": 6,
         "title": "Good Education",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Education_n3tnr2.png",
         "category": "Education",
         "description": "Education is very important for all the children.",
         "price": 150,
@@ -92,7 +92,7 @@
     {
         "id": 7,
         "title": "Used Cloth Donation",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Clothing_ip6pgz.png",
         "category": "Clothing",
         "description": "Clothing is very important for all.",
         "price": 150,
@@ -107,7 +107,7 @@
     {
         "id": 8,
         "title": "Arranging Clean Water",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Health_xmsigt.png",
         "category": "Health",
         "description": "Health is very important for all.",
         "price": 150,
@@ -122,7 +122,7 @@
     {
         "id": 9,
         "title": "Better Food For Everyone",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
         "category": "Food",
         "description": "Food is very important for all.",
         "price": 150,
@@ -137,7 +137,7 @@
     {
         "id": 10,
         "title": "Better Home For Everyone",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734632/kindness-collective-project/Shelter_yepwpg.png",
         "category": "Shelter",
         "description": "Shelter is very important for all.",
         "price": 150,
@@ -152,7 +152,7 @@
     {
         "id": 11,
         "title": "Good Education",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Education_n3tnr2.png",
         "category": "Education",
         "description": "Education is very important for all the children.",
         "price": 150,
@@ -167,7 +167,7 @@
     {
         "id": 12,
         "title": "Used Cloth Donation",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Clothing_ip6pgz.png",
         "category": "Clothing",
         "description": "Clothing is very important for all.",
         "price": 150,
@@ -182,7 +182,7 @@
     {
         "id": 13,
         "title": "Arranging Clean Water",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Health_xmsigt.png",
         "category": "Health",
         "description": "Health is very important for all.",
         "price": 150,
@@ -197,7 +197,7 @@
     {
         "id": 14,
         "title": "Better Food For Everyone",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
         "category": "Food",
         "description": "Food is very important for all.",
         "price": 150,
@@ -212,7 +212,7 @@
     {
         "id": 15,
         "title": "Better Home For Everyone",
-        "imgUrl": "https://i.imgur.com/2SvW3mg.jpg",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734632/kindness-collective-project/Shelter_yepwpg.png",
         "category": "Shelter",
         "description": "Shelter is very important for all.",
         "price": 150,
@@ -221,6 +221,21 @@
         "cardBgColor": "teal",
         "cardTextColor": "teal",
         "btnBgColor": "teal",
+        "btnTextColor": "white"
+    },
+
+    {
+        "id": 16,
+        "title": "Better Food For Everyone",
+        "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
+        "category": "Food",
+        "description": "Food is very important for all.",
+        "price": 150,
+        "categoryBgColor": "orange",
+        "categoryTextColor": "orange",
+        "cardBgColor": "orange",
+        "cardTextColor": "orange",
+        "btnBgColor": "orange",
         "btnTextColor": "white"
     }
 ]
