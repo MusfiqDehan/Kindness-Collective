@@ -5,13 +5,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Education_n3tnr2.png",
         "category": "Education",
         "description": "Education is very important for all the children.",
-        "price": 150,
-        "categoryBgColor": "#f5d3bd",
-        "categoryTextColor": "text-blue-800",
-        "cardBgColor": "bg-blue-200",
-        "cardTextColor": "text-blue-800",
-        "btnBgColor": "bg-blue-800",
-        "btnTextColor": "text-white"
+        "price": 300,
+        "color": "blue",
+        "categoryBgColor": "rgba(0, 82, 255, 0.20)",
+        "categoryTextColor": "#0052FF",
+        "cardBgColor": "rgba(0, 82, 255, 0.15)",
+        "cardTextColor": "#0052FF",
+        "btnBgColor": "#0052FF",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -20,13 +21,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Clothing_ip6pgz.png",
         "category": "Clothing",
         "description": "Clothing is very important for all.",
-        "price": 150,
-        "categoryBgColor": "lime",
-        "categoryTextColor": "lime",
-        "cardBgColor": "lime",
-        "cardTextColor": "lime",
-        "btnBgColor": "lime",
-        "btnTextColor": "white"
+        "price": 100,
+        "color": "red",
+        "categoryBgColor": "rgba(255, 68, 74, 0.20)",
+        "categoryTextColor": "#FF444A",
+        "cardBgColor": "rgba(255, 68, 74, 0.15)",
+        "cardTextColor": "#FF444A",
+        "btnBgColor": "#FF444A",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -35,13 +37,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Health_xmsigt.png",
         "category": "Health",
         "description": "Health is very important for all.",
-        "price": 150,
-        "categoryBgColor": "purple",
-        "categoryTextColor": "purple",
-        "cardBgColor": "purple",
-        "cardTextColor": "purple",
-        "btnBgColor": "purple",
-        "btnTextColor": "white"
+        "price": 170,
+        "color": "green",
+        "categoryBgColor": "rgba(121, 194, 63, 0.20)",
+        "categoryTextColor": "#79C23F",
+        "cardBgColor": "rgba(121, 194, 63, 0.15)",
+        "cardTextColor": "#79C23F",
+        "btnBgColor": "#79C23F",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -50,13 +53,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
         "category": "Food",
         "description": "Food is very important for all.",
-        "price": 150,
-        "categoryBgColor": "orange",
-        "categoryTextColor": "orange",
-        "cardBgColor": "orange",
-        "cardTextColor": "orange",
-        "btnBgColor": "orange",
-        "btnTextColor": "white"
+        "price": 180,
+        "color": "purple",
+        "categoryBgColor": "rgba(128, 0, 128, 0.20)",
+        "categoryTextColor": "#800080",
+        "cardBgColor": "rgba(128, 0, 128, 0.15)",
+        "cardTextColor": "#800080",
+        "btnBgColor": "#800080",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -65,13 +69,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734632/kindness-collective-project/Shelter_yepwpg.png",
         "category": "Shelter",
         "description": "Shelter is very important for all.",
-        "price": 150,
-        "categoryBgColor": "teal",
-        "categoryTextColor": "teal",
-        "cardBgColor": "teal",
-        "cardTextColor": "teal",
-        "btnBgColor": "teal",
-        "btnTextColor": "white"
+        "price": 200,
+        "color": "teal",
+        "categoryBgColor": "rgba(0, 128, 128, 0.20)",
+        "categoryTextColor": "#008080",
+        "cardBgColor": "rgba(0, 128, 128, 0.15)",
+        "cardTextColor": "#008080",
+        "btnBgColor": "#008080",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -80,13 +85,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Education_n3tnr2.png",
         "category": "Education",
         "description": "Education is very important for all the children.",
-        "price": 150,
-        "categoryBgColor": "blue",
-        "categoryTextColor": "blue",
-        "cardBgColor": "blue",
-        "cardTextColor": "blue",
-        "btnBgColor": "blue",
-        "btnTextColor": "white"
+        "price": 300,
+        "color": "blue",
+        "categoryBgColor": "rgba(0, 82, 255, 0.20)",
+        "categoryTextColor": "#0052FF",
+        "cardBgColor": "rgba(0, 82, 255, 0.15)",
+        "cardTextColor": "#0052FF",
+        "btnBgColor": "#0052FF",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -95,13 +101,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Clothing_ip6pgz.png",
         "category": "Clothing",
         "description": "Clothing is very important for all.",
-        "price": 150,
-        "categoryBgColor": "lime",
-        "categoryTextColor": "lime",
-        "cardBgColor": "lime",
-        "cardTextColor": "lime",
-        "btnBgColor": "lime",
-        "btnTextColor": "white"
+        "price": 100,
+        "color": "red",
+        "categoryBgColor": "rgba(255, 68, 74, 0.20)",
+        "categoryTextColor": "#FF444A",
+        "cardBgColor": "rgba(255, 68, 74, 0.15)",
+        "cardTextColor": "#FF444A",
+        "btnBgColor": "#FF444A",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -110,13 +117,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Health_xmsigt.png",
         "category": "Health",
         "description": "Health is very important for all.",
-        "price": 150,
-        "categoryBgColor": "purple",
-        "categoryTextColor": "purple",
-        "cardBgColor": "purple",
-        "cardTextColor": "purple",
-        "btnBgColor": "purple",
-        "btnTextColor": "white"
+        "price": 170,
+        "color": "green",
+        "categoryBgColor": "rgba(121, 194, 63, 0.20)",
+        "categoryTextColor": "#79C23F",
+        "cardBgColor": "rgba(121, 194, 63, 0.15)",
+        "cardTextColor": "#79C23F",
+        "btnBgColor": "#79C23F",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -125,13 +133,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
         "category": "Food",
         "description": "Food is very important for all.",
-        "price": 150,
-        "categoryBgColor": "orange",
-        "categoryTextColor": "orange",
-        "cardBgColor": "orange",
-        "cardTextColor": "orange",
-        "btnBgColor": "orange",
-        "btnTextColor": "white"
+        "price": 180,
+        "color": "purple",
+        "categoryBgColor": "rgba(128, 0, 128, 0.20)",
+        "categoryTextColor": "#800080",
+        "cardBgColor": "rgba(128, 0, 128, 0.15)",
+        "cardTextColor": "#800080",
+        "btnBgColor": "#800080",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -140,13 +149,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734632/kindness-collective-project/Shelter_yepwpg.png",
         "category": "Shelter",
         "description": "Shelter is very important for all.",
-        "price": 150,
-        "categoryBgColor": "teal",
-        "categoryTextColor": "teal",
-        "cardBgColor": "teal",
-        "cardTextColor": "teal",
-        "btnBgColor": "teal",
-        "btnTextColor": "white"
+        "price": 200,
+        "color": "teal",
+        "categoryBgColor": "rgba(0, 128, 128, 0.20)",
+        "categoryTextColor": "#008080",
+        "cardBgColor": "rgba(0, 128, 128, 0.15)",
+        "cardTextColor": "#008080",
+        "btnBgColor": "#008080",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -155,13 +165,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Education_n3tnr2.png",
         "category": "Education",
         "description": "Education is very important for all the children.",
-        "price": 150,
-        "categoryBgColor": "blue",
-        "categoryTextColor": "blue",
-        "cardBgColor": "blue",
-        "cardTextColor": "blue",
-        "btnBgColor": "blue",
-        "btnTextColor": "white"
+        "price": 300,
+        "color": "blue",
+        "categoryBgColor": "rgba(0, 82, 255, 0.20)",
+        "categoryTextColor": "#0052FF",
+        "cardBgColor": "rgba(0, 82, 255, 0.15)",
+        "cardTextColor": "#0052FF",
+        "btnBgColor": "#0052FF",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -170,13 +181,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Clothing_ip6pgz.png",
         "category": "Clothing",
         "description": "Clothing is very important for all.",
-        "price": 150,
-        "categoryBgColor": "lime",
-        "categoryTextColor": "lime",
-        "cardBgColor": "lime",
-        "cardTextColor": "lime",
-        "btnBgColor": "lime",
-        "btnTextColor": "white"
+        "price": 100,
+        "color": "red",
+        "categoryBgColor": "rgba(255, 68, 74, 0.20)",
+        "categoryTextColor": "#FF444A",
+        "cardBgColor": "rgba(255, 68, 74, 0.15)",
+        "cardTextColor": "#FF444A",
+        "btnBgColor": "#FF444A",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -185,13 +197,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Health_xmsigt.png",
         "category": "Health",
         "description": "Health is very important for all.",
-        "price": 150,
-        "categoryBgColor": "purple",
-        "categoryTextColor": "purple",
-        "cardBgColor": "purple",
-        "cardTextColor": "purple",
-        "btnBgColor": "purple",
-        "btnTextColor": "white"
+        "price": 170,
+        "color": "green",
+        "categoryBgColor": "rgba(121, 194, 63, 0.20)",
+        "categoryTextColor": "#79C23F",
+        "cardBgColor": "rgba(121, 194, 63, 0.15)",
+        "cardTextColor": "#79C23F",
+        "btnBgColor": "#79C23F",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -200,13 +213,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
         "category": "Food",
         "description": "Food is very important for all.",
-        "price": 150,
-        "categoryBgColor": "orange",
-        "categoryTextColor": "orange",
-        "cardBgColor": "orange",
-        "cardTextColor": "orange",
-        "btnBgColor": "orange",
-        "btnTextColor": "white"
+        "price": 180,
+        "color": "purple",
+        "categoryBgColor": "rgba(128, 0, 128, 0.20)",
+        "categoryTextColor": "#800080",
+        "cardBgColor": "rgba(128, 0, 128, 0.15)",
+        "cardTextColor": "#800080",
+        "btnBgColor": "#800080",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -215,13 +229,14 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734632/kindness-collective-project/Shelter_yepwpg.png",
         "category": "Shelter",
         "description": "Shelter is very important for all.",
-        "price": 150,
-        "categoryBgColor": "teal",
-        "categoryTextColor": "teal",
-        "cardBgColor": "teal",
-        "cardTextColor": "teal",
-        "btnBgColor": "teal",
-        "btnTextColor": "white"
+        "price": 200,
+        "color": "teal",
+        "categoryBgColor": "rgba(0, 128, 128, 0.20)",
+        "categoryTextColor": "#008080",
+        "cardBgColor": "rgba(0, 128, 128, 0.15)",
+        "cardTextColor": "#008080",
+        "btnBgColor": "#008080",
+        "btnTextColor": "#ffffff"
     },
 
     {
@@ -230,12 +245,13 @@
         "imgUrl": "https://res.cloudinary.com/musfiqdehan/image/upload/v1695734023/kindness-collective-project/Food_kmbspp.png",
         "category": "Food",
         "description": "Food is very important for all.",
-        "price": 150,
-        "categoryBgColor": "orange",
-        "categoryTextColor": "orange",
-        "cardBgColor": "orange",
-        "cardTextColor": "orange",
-        "btnBgColor": "orange",
-        "btnTextColor": "white"
+        "price": 180,
+        "color": "purple",
+        "categoryBgColor": "rgba(128, 0, 128, 0.20)",
+        "categoryTextColor": "#800080",
+        "cardBgColor": "rgba(128, 0, 128, 0.15)",
+        "cardTextColor": "#800080",
+        "btnBgColor": "#800080",
+        "btnTextColor": "#ffffff"
     }
 ]
