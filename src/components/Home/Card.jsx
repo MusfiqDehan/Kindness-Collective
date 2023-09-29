@@ -13,7 +13,7 @@ const Card = ({ card }) => {
     } = card;
     return (
         <>
-            <Link to={`/donations/${id}`}>
+            <Link to={`/donation/${id}`}>
                 <div
                     key={id}
                     className={"card w-80 shadow-xl"}

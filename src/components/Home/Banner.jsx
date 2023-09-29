@@ -1,6 +1,6 @@
 import Search from "./Search";
 
-const Banner = () => {
+const Banner = ({ searchQuery, setSearchQuery, handleClickToSearch }) => {
     return (
         <>
             <div
@@ -16,7 +16,11 @@ const Banner = () => {
                         <h1 className="mb-5 text-5xl font-bold">
                             Helping Peoples Worldwide
                         </h1>
-                        <Search />
+                        <Search
+                            searchQuery={searchQuery}
+                            setSearchQuery={setSearchQuery}
+                            handleClickToSearch={handleClickToSearch}
+                        />
                     </div>
                 </div>
             </div>

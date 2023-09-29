@@ -1,9 +1,13 @@
 import Banner from "./Banner";
 
-const Header = () => {
+const Header = ({ searchQuery, setSearchQuery, handleClickToSearch }) => {
     return (
         <header>
-            <Banner />
+            <Banner
+                searchQuery={searchQuery}
+                setSearchQuery={setSearchQuery}
+                handleClickToSearch={handleClickToSearch}
+            />
         </header>
     );
 };
