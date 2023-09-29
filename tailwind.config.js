@@ -5,8 +5,8 @@ export default {
         "./src/**/*.{js,ts,jsx,tsx}",
         "./components/**/*.{js,ts,jsx,tsx}",
     ],
+    plugins: [require("@tailwindcss/typography"), require("daisyui")],
     daisyui: {
         themes: ["light", "dark", "synthwave"],
     },
-    plugins: [require("@tailwindcss/typography"), require("daisyui")],
 };
