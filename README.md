@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/logo.png" alt="Kindness-Collective">
+<img src="/public/logo.png" alt="Kindness-Collective" width=80>
 <h1>Kindness Collective</h1>
 <p>A Donation Campaign to Help Peoples Worldwide</p>
 </div>
