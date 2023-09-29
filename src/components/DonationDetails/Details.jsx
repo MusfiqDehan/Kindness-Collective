@@ -4,7 +4,7 @@ const Details = ({ donation }) => {
     return (
         <div className="mt-10">
             <h1 className="text-3xl font-bold my-5">{title}</h1>
-            <p>{description}</p>
+            <p className="text-justify text-base">{description}</p>
         </div>
     );
 };

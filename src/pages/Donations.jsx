@@ -31,30 +31,20 @@ const Donations = () => {
                 </p>
             ) : (
                 <div>
-                    <div className="grid grid-cols-2 gap-5">
-                        {isShow
-                            ? favorites.map((donation) => (
-                                  <Card
-                                      key={donation.id}
-                                      donation={donation}
-                                  ></Card>
-                              ))
-                            : favorites
-                                  .slice(0, 4)
-                                  .map((donation) => (
-                                      <Card
-                                          key={donation.id}
-                                          donation={donation}
-                                      ></Card>
-                                  ))}
+                    <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-5">
+                        {favorites
+                            .slice(0, isShow ? favorites.length : 4)
+                            .map((donation) => (
+                                <Card key={donation.id} donation={donation} />
+                            ))}
                     </div>
 
-                    {favorites.length > 4 && (
+                    {!isShow && favorites.length > 4 && (
                         <button
-                            onClick={() => setIsShow(!isShow)}
+                            onClick={() => setIsShow(true)}
                             className="btn btn-primary text-white block mx-auto my-10"
                         >
-                            {isShow ? "See Less" : "See more"}
+                            See more
                         </button>
                     )}
                 </div>
