@@ -11,3 +11,4 @@
 -   Condition rendering for favorite page (See More button)
 -   Fully Responsive for all the devices
 -   React Router for routing (Dynamic Routing)
+-   Dynamic title for each page
