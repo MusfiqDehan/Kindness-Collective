@@ -24,7 +24,11 @@ const Navbar = () => {
             <div className="navbar bg-base-100 flex-col md:flex-col lg:flex-row">
                 <div className="flex-1 text-xl">
                     <img className="w-10 h-10" src="logo.png" alt="" />
-                    <NavLink to="/">Kindness Collective</NavLink>
+                    <NavLink to="/">
+                        <span className="text-blue-600 font-semibold text-xl">
+                            Kindness Collective
+                        </span>
+                    </NavLink>
                 </div>
                 <div className="flex-none">
                     <ul className="menu menu-horizontal px-1">
@@ -35,7 +39,7 @@ const Navbar = () => {
                                     isPending
                                         ? "pending"
                                         : isActive
-                                        ? "bg-gray-200"
+                                        ? "text-blue-500 border-b-2 border-blue-500"
                                         : ""
                                 }
                             >
@@ -49,7 +53,7 @@ const Navbar = () => {
                                     isPending
                                         ? "pending"
                                         : isActive
-                                        ? "bg-gray-200"
+                                        ? "text-blue-500 border-b-2 border-blue-500"
                                         : ""
                                 }
                             >
@@ -63,7 +67,7 @@ const Navbar = () => {
                                     isPending
                                         ? "pending"
                                         : isActive
-                                        ? "bg-gray-200"
+                                        ? "text-blue-500 border-b-2 border-blue-500"
                                         : ""
                                 }
                             >
@@ -77,7 +81,7 @@ const Navbar = () => {
                                     isPending
                                         ? "pending"
                                         : isActive
-                                        ? "bg-gray-200"
+                                        ? "text-blue-500 border-b-2 border-blue-500"
                                         : ""
                                 }
                             >
