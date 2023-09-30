@@ -16,7 +16,7 @@ const Card = ({ card }) => {
             <Link to={`/donation/${id}`}>
                 <div
                     key={id}
-                    className={"card w-80 shadow-xl"}
+                    className={"card w-80 h-80 shadow-xl"}
                     style={{
                         backgroundColor: `${cardBgColor}`,
                         color: `${cardTextColor}`,

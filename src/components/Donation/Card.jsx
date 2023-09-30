@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
+import { Icon } from "@iconify/react";
 
-const Card = ({ donation }) => {
+const Card = ({ donation, handleDelete }) => {
     const {
         id,
         title,
@@ -14,6 +15,7 @@ const Card = ({ donation }) => {
         btnBgColor,
         btnTextColor,
     } = donation;
+
     return (
         <div>
             <div
@@ -26,30 +28,41 @@ const Card = ({ donation }) => {
                 <figure>
                     <img src={imgUrl} alt={title} />
                 </figure>
-                <div className="card-body">
-                    <div
-                        style={{
-                            backgroundColor: `${categoryBgColor}`,
-                            color: `${categoryTextColor}`,
-                        }}
-                        className="badge border-none"
-                    >
-                        {category}
+                <div className="card-body flex flex-row justify-between items-center">
+                    <div>
+                        <div
+                            style={{
+                                backgroundColor: `${categoryBgColor}`,
+                                color: `${categoryTextColor}`,
+                            }}
+                            className="badge border-none"
+                        >
+                            {category}
+                        </div>
+                        <h2 className="card-title">{title}</h2>
+                        <p>${price}</p>
+                        <div className="card-actions">
+                            <Link to={`/donation/${id}`}>
+                                <button
+                                    className="btn"
+                                    style={{
+                                        backgroundColor: `${btnBgColor}`,
+                                        color: `${btnTextColor}`,
+                                    }}
+                                >
+                                    View Details
+                                </button>
+                            </Link>
+                        </div>
                     </div>
-                    <h2 className="card-title">{title}</h2>
-                    <p>${price}</p>
-                    <div className="card-actions">
-                        <Link to={`/donation/${id}`}>
-                            <button
-                                className="btn"
-                                style={{
-                                    backgroundColor: `${btnBgColor}`,
-                                    color: `${btnTextColor}`,
-                                }}
-                            >
-                                View Details
-                            </button>
-                        </Link>
+
+                    <div>
+                        <button className="" onClick={() => handleDelete(id)}>
+                            <Icon
+                                className="text-3xl text-red-600"
+                                icon="octicon:trash-24"
+                            />
+                        </button>
                     </div>
                 </div>
             </div>

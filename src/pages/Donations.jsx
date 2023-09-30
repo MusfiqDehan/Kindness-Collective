@@ -23,6 +23,12 @@ const Donations = () => {
         }
     }, []);
 
+    const handleDelete = (id) => {
+        const newFavorites = favorites.filter((donation) => donation.id !== id);
+        setFavorites(newFavorites);
+        localStorage.setItem("favorites", JSON.stringify(newFavorites));
+    };
+
     return (
         <div>
             {noFound ? (
@@ -35,7 +41,11 @@ const Donations = () => {
                         {favorites
                             .slice(0, isShow ? favorites.length : 4)
                             .map((donation) => (
-                                <Card key={donation.id} donation={donation} />
+                                <Card
+                                    key={donation.id}
+                                    donation={donation}
+                                    handleDelete={handleDelete}
+                                />
                             ))}
                     </div>
 
