@@ -16,7 +16,10 @@ const Routes = createBrowserRouter([
             {
                 path: "/",
                 element: <Home />,
-                loader: () => fetch("/data.json"),
+                loader: async () =>
+                    fetch(
+                        "https://kindness-collective.musfiqdehan.repl.co/api/v1/donations"
+                    ),
             },
             {
                 path: "/donations",
@@ -25,12 +28,18 @@ const Routes = createBrowserRouter([
             {
                 path: "/donation/:id",
                 element: <DonationDetails />,
-                loader: () => fetch("/data.json"),
+                loader: async () =>
+                    fetch(
+                        "https://kindness-collective.musfiqdehan.repl.co/api/v1/donations"
+                    ),
             },
             {
                 path: "/statistics",
                 element: <Statistics />,
-                loader: () => fetch("/data.json"),
+                loader: async () =>
+                    fetch(
+                        "https://kindness-collective.musfiqdehan.repl.co/api/v1/donations"
+                    ),
             },
             {
                 path: "/about",
