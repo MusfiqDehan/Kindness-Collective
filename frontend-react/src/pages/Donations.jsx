@@ -37,7 +37,7 @@ const Donations = () => {
                 </p>
             ) : (
                 <div>
-                    <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-5">
+                    <div className="min-h-[80vh] grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-5">
                         {favorites
                             .slice(0, isShow ? favorites.length : 4)
                             .map((donation) => (
