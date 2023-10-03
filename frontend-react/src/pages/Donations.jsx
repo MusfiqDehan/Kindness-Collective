@@ -9,7 +9,7 @@ const Donations = () => {
     useEffect(() => {
         const favoriteItems = JSON.parse(localStorage.getItem("favorites"));
 
-        if (favoriteItems) {
+        if (favoriteItems.length > 0) {
             setFavorites(favoriteItems);
 
             const total = favoriteItems.reduce(
