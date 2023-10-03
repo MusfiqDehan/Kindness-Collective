@@ -1,0 +1,7 @@
+__pycache__
+.flaskenv
+.vscode
+db.sqlite3
+instance
+json_to_sqlite3.py
+rename_table.py
