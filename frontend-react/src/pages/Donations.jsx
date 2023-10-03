@@ -3,7 +3,7 @@ import Card from "../components/Donation/Card";
 
 const Donations = () => {
     const [favorites, setFavorites] = useState([]);
-    const [noFound, setNofound] = useState("");
+    const [noFound, setNofound] = useState(false);
     const [isShow, setIsShow] = useState(false);
 
     useEffect(() => {
@@ -19,7 +19,7 @@ const Donations = () => {
 
             console.log(total);
         } else {
-            setNofound("No Data Found! Add Some Donations!");
+            setNofound("No Data Found");
         }
     }, []);
 
