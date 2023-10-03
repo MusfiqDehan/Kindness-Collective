@@ -7,6 +7,8 @@ import About from "../pages/About";
 import ErrorPage from "../pages/ErrorPage";
 import DonationDetails from "../pages/DonationDetails";
 
+const API_URL = "https://kindness-collective.onrender.com/api/v1/donations";
+
 const Routes = createBrowserRouter([
     {
         path: "/",
@@ -16,10 +18,7 @@ const Routes = createBrowserRouter([
             {
                 path: "/",
                 element: <Home />,
-                loader: async () =>
-                    fetch(
-                        "https://kindness-collective.musfiqdehan.repl.co/api/v1/donations"
-                    ),
+                loader: async () => fetch(API_URL),
             },
             {
                 path: "/donations",
@@ -28,18 +27,12 @@ const Routes = createBrowserRouter([
             {
                 path: "/donation/:id",
                 element: <DonationDetails />,
-                loader: async () =>
-                    fetch(
-                        "https://kindness-collective.musfiqdehan.repl.co/api/v1/donations"
-                    ),
+                loader: async () => fetch(API_URL),
             },
             {
                 path: "/statistics",
                 element: <Statistics />,
-                loader: async () =>
-                    fetch(
-                        "https://kindness-collective.musfiqdehan.repl.co/api/v1/donations"
-                    ),
+                loader: async () => fetch(API_URL),
             },
             {
                 path: "/about",
