@@ -8,8 +8,8 @@ cors = CORS(app)
 @app.route('/')
 def index():
   return '''
-  <div style="text-align: center; width:100%; height:100vh">
-    <img src="frontend-react/public/logo.png" alt="kindness-collective-logo" style="width:5rem; height:5rem;">
+  <div style="text-align: center; width:100%;">
+    <img src="../frontend-react/public/logo.png" alt="kindness-collective-logo" style="width:5rem; height:5rem;">
     <h1>Kindness Collective</h1>
     <br>
     <p>Backend Flask Server</p>
