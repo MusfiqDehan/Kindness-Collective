@@ -9,7 +9,7 @@ cors = CORS(app)
 def index():
   return '''
   <div style="text-align: center; width:100%;">
-    <img src="./logo.png" alt="kindness-collective-logo" style="width:5rem; height:5rem;">
+    <img src="{{ url_for('static', filename='logo.png') }}" alt="kindness-collective-logo" style="width:5rem; height:5rem;">
     <h1>Kindness Collective</h1>
     <br>
     <p>Backend Flask Server</p>
