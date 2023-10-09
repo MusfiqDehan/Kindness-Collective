@@ -7,7 +7,7 @@ import About from "../pages/About";
 import ErrorPage from "../pages/ErrorPage";
 import DonationDetails from "../pages/DonationDetails";
 
-const API_URL = "https://kindness-collective.onrender.com/api/v1/donations";
+const API_URL = "https://kindness-collective.up.railway.app/api/v1/donations";
 
 const Routes = createBrowserRouter([
     {

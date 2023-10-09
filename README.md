@@ -6,7 +6,7 @@
 
 ## API Endpoint
 
-https://kindness-collective.musfiqdehan.repl.co/api/v1/donations
+https://kindness-collective.up.railway.app/api/v1/donations
 
 ## Features
 
