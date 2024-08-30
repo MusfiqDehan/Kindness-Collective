@@ -14,7 +14,7 @@ def index():
     <br>
     <p>Backend Flask Server</p>
     <br>
-    <a href="https://kindness-collective.onrender.com/api/v1/donations">Go to API Endpoint</a>
+    <a href="https://kindness-collective.up.railway.app/api/v1/donations">Go to API Endpoint</a>
   </div>
   '''
 
